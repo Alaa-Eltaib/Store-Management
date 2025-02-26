@@ -12,7 +12,7 @@ This project is a store management system that allows users to add, edit, delete
 - Calculate total cart value including tax.
 
 ## Collaboration
-This project was developed in collaboration with my friends from the Helbers Team 2023. Special thanks to the entire team for their contributions and efforts.
+This project was developed in collaboration with my friends from the Helbers Team in summer camp 2024—special thanks to the entire team for their contributions and efforts.
 
 ## How to Use
 1. Run the program.
